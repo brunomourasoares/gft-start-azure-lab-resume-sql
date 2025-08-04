@@ -1,0 +1,1 @@
+# gft-start-azure-lab-resume-sql
